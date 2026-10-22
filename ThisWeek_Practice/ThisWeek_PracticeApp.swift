@@ -11,7 +11,8 @@ import SwiftUI
 struct ThisWeek_PracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
+                .tint(.pink)
         }
     }
 }

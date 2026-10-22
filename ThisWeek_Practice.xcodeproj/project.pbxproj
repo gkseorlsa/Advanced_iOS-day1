@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		8446B3A63089D5C900225FA4 /* ThisWeek_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThisWeek_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8446B3BD3089D9EF00225FA4 /* ThisWeek-Practice-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "ThisWeek-Practice-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -30,6 +31,7 @@
 		8446B39D3089D5C900225FA4 = {
 			isa = PBXGroup;
 			children = (
+				8446B3BD3089D9EF00225FA4 /* ThisWeek-Practice-Info.plist */,
 				8446B3A83089D5C900225FA4 /* ThisWeek_Practice */,
 				8446B3A73089D5C900225FA4 /* Products */,
 			);
@@ -243,6 +245,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ThisWeek-Practice-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "소개팅";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -274,6 +278,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "ThisWeek-Practice-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "소개팅";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
